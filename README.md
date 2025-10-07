@@ -40,5 +40,3 @@ Execute o seguinte comando para criar os ficheiros `chave_privada.pem` e `chave_
 
 ```bash
 python geradorVerificador.py gerar-chaves
-
-
